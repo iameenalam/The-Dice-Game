@@ -30,13 +30,13 @@ Check out the live demo of the game [here](https://diice-game.vercel.app/).
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/dice-game.git
+   git clone https://github.com/iameenalam/The-Dice-Game
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd dice-game
+   cd The-Dice-Game
    ```
 
 3. Open the `index.html` file in your preferred web browser.
